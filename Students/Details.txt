@@ -11,6 +11,5 @@
 | Sakshi      | sakshiot4       | Python             | 
 | Vedant M.   | Vedant-Manjrekar| JavaScript         |
 |Prathamesh   |prathameshsail72-hue| Python          |
-
 | Siddhesh    | Siddhesh        | Python             | 
 | Jemit       | klassroom-jem    | Python            |
